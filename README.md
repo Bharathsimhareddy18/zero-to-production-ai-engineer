@@ -21,16 +21,17 @@
   Building in public. Open to AI/ML Engineer roles.
 </p>
 
-## 📋 Table of Contents
+##  Table of Contents
 
 | Day | Topic | Status | Link |
 |-----|-------|--------|------|
-| 1 | FastAPI Production Patterns | ✅ Live | [Day 1](./day-01-fastapi/README.md) |
+| 1 | FastAPI Production Patterns |  Live | [Day 1](./day-01-fastapi/README.md) |
 
 ## What You'll Learn
-**Production AI Engineering Stack:** FastAPI async APIs • RAG optimization • Model serving at scale • Vector database indexing • LLM orchestration • Docker deployment
-
-## Quick Start (Day 1)
-```bash
-pip install fastapi uvicorn slowapi
-uvicorn day-01-fastapi.main:app --reload
+**Production AI Engineering Stack:**   
+• FastAPI async APIs   
+• RAG optimization   
+• Model serving at scale   
+• Vector database indexing   
+• LLM orchestration   
+• Docker deployment  
