@@ -25,7 +25,7 @@
 
 | Day | Topic | Status | Link |
 |-----|-------|--------|------|
-| 1 | FastAPI Production Patterns |  Live | [Day 1](./day-01-fastapi/README.md) |
+| 1 | Http-statusCode-fastapi |  Live | [SOURCE](./day-01-http-status-codes-fastapi/README.md) |
 
 ## What You'll Learn
 **Production AI Engineering Stack:**   
