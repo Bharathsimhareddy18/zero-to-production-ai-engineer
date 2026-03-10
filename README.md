@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Zero%20to%20Production%20AI%20Engineer-000000?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black">
-    <img alt="Zero to Production AI Engineer" src="https://img.shields.io/badge/Zero%20to%20Production%20AI%20Engineer-000000?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black">
+    <img alt="Zero to Production AI Engineer" src="https://img.shields.io/badge/Zero%20to%20Production%20AI%20Engineer-000000?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black" height="60" width="600">
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Daily%20AI%20Engineering-4285F4?style=for-the-badge&logo=github&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/CampusX%20+%20Krish%20Naik-FBBF24?style=for-the-badge&logo=youtube&logoColor=black" height="35">
-  <img src="https://img.shields.io/badge/Production%20Ready-E94235?style=for-the-badge&logo=docker&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Daily%20AI%20Engineering-4285F4?style=for-the-badge&logo=github&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/CampusX%20+%20Krish%20Naik-FBBF24?style=for-the-badge&logo=youtube&logoColor=black" height="40">
+  <img src="https://img.shields.io/badge/Production%20Ready-E94235?style=for-the-badge&logo=docker&logoColor=white" height="40">
 </p>
 
 <p align="center">
