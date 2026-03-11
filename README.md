@@ -26,6 +26,8 @@
 | Day | Topic | Status | Link |
 |-----|-------|--------|------|
 | 1 | Http-statusCode-fastapi |  Live | [SOURCE](./day-01-http-status-codes-fastapi/README.md) |
+| 2 | Pydantic-fastapi |  Live | [SOURCE](./day-02-pydantic-with-fastapi/README.md) |
+
 
 ## What You'll Learn
 **Production AI Engineering Stack:**   
